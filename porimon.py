@@ -1,0 +1,27 @@
+import os
+import sys
+import time
+os.system("pkg install figlet")
+os.system("clear")
+os.system("figlet JHONYSING-X")
+print("Enter your name")
+name = input() 
+time.sleep(2)
+print("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░")
+print("----------------JHONYSING attack started!----------------")
+print("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n")
+time.sleep(3)
+print("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░")
+print(":::::::::::::::::primoni adress tracked!:::::::::::::::::")
+print("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n")
+time.sleep(3)
+print("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░")
+print("~~~~~~~~~~~~~~Bypassing all dress~~~~~~~~~~~~~~~~")
+print("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n")
+time.sleep(5)
+print("Congratulations,",name,"! You have successfully hacked:")
+time.sleep(3)
+os.system("figlet PORIMONI")
+time.sleep(2)
+os.system("exit")
+
